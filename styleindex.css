@@ -21,6 +21,7 @@ p {
     padding: 20px;
     margin: 30px;
     margin-block-start: 30px;
-    
+    box-shadow: rgba(85, 82, 78, 0.418);
+    border-radius: 6px;
     cursor: pointer;
 }
