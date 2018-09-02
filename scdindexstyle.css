@@ -1,0 +1,39 @@
+body{
+    background-color: gray
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: black;
+    text-align: center;
+}
+ul {
+    color: midnightblue;
+    font-size: 30px;
+    background-color: lightsteelblue;
+    padding: 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+h2{
+    font-size: 50px;
+    color: navy;
+    text-align: center;
+}
+div{
+    text-align: left;
+    font-size: 20px;
+    color: black;
+    height: 600px;
+}
+.button{
+    background-color: rgb(34, 146, 146);
+    color: rgb(39, 31, 31);
+    padding: 20px;
+    margin: 30px;
+    margin-block-start: 30px;
+    box-shadow: rgba(85, 82, 78, 0.418);
+    border-radius: 6px;
+    cursor: pointer;
+}
