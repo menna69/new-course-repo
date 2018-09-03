@@ -1,16 +1,16 @@
 body{
-    background-color: gray
+    background-color: #7c84ae;
 }
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 60px;
-    color: black;
+    color: #070F3a;
     text-align: center;
 }
 ul {
-    color: midnightblue;
+    color: #070F3a;
     font-size: 30px;
-    background-color: lightsteelblue;
+    background-color: #182257;
     padding: 20px;
     margin: 5px;
     cursor: pointer;
@@ -18,18 +18,18 @@ ul {
 
 h2{
     font-size: 50px;
-    color: navy;
+    color: #070F3a;
     text-align: center;
 }
 div{
     text-align: left;
     font-size: 20px;
-    color: black;
+    color: #182257;
     height: 600px;
 }
 .button{
-    background-color: rgb(34, 146, 146);
-    color: rgb(39, 31, 31);
+    background-color: #070F3a;
+    color: #7c84ae;
     padding: 20px;
     margin: 30px;
     margin-block-start: 30px;

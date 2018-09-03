@@ -1,32 +1,30 @@
 body{
-    background-color: coral
+    background-color: #b15983;
 }
 table, th, td{
-    border: 3px solid black;
+    border: 3px solid #470022;
     border-collapse: collapse;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
     padding: 3px;
     margin:6px;
+    color: #6a123c;
 }
 h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30;
     text-align: center;
+    color: #470022;
 }
 @media screen and (max-width:600px){
     body{
-        background-color: green;
-    }
-    .button{
-        background-color: azure;
-        border-radius: 12px;
+        background-color: #9e3549;
     }
 
 }
 .button{
-    background-color: rgb(34, 146, 146);
-    color: rgb(39, 31, 31);
+    background-color: #470022;
+    color: #d58eaf;
     padding: 20px;
     margin: 30px;
     margin-block-start: 30px;
